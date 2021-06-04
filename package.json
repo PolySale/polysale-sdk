@@ -8,12 +8,12 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/PolySale/polysale-sdk.git",
+  "repository": "https://github.com/polysale/polysale-sdk.git",
   "keywords": [
     "polysale",
     "polygonmatic"
   ],
-  "module": "dist/sdk.esm.js",
+  "module": "dist/polysale-sdk.esm.js",
   "scripts": {
     "lint": "tsdx lint src test",
     "build": "tsdx build",
